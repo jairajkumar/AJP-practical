@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\code playground\java Eclipse\Enterprise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\427364679.index
+\exp9\src
